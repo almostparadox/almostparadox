@@ -19,7 +19,7 @@
 
 ## ⚡ About Me
 
-I bridge **Applied Mathematics (Universitas Gadjah Mada)** with **Production AI & Machine Learning Engineering**. 
+I bridge **Applied Mathematics** with **Production AI & Machine Learning Engineering**. 
 
 My focus centers on designing resilient, observable systems across:
 - 🤖 **Applied LLMs & Agentic Systems:** RAG architectures, multi-agent LangGraph orchestration, NL→SQL engines, and validation-first data pipelines.
